@@ -7,3 +7,5 @@
 946, 1249(march) stack
 
 Google (march) 1007
+
+14.) Longest Common Prefix, good question
